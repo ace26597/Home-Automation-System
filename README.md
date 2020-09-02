@@ -6,4 +6,4 @@ A simple cost efficient home automation system using NodeMCU module and various 
  Water level Detector Sensor
  MQ-series gas sensor
  
- ![Image](WhatsApp Image 2019-05-31 at 10.40.08 AM.jpeg "Image")
+ ![Image](WhatsApp Image 2019-05-31 at 10.40.08 AM.jpeg "icon")
